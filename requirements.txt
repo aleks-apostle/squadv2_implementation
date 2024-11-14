@@ -1,28 +1,11 @@
-# This file may be used to create an environment using:
-# $ conda create --name <env> --file <this file>
-# platform: osx-arm64
-certifi==2024.8.30
-charset-normalizer==3.4.0
-filelock==3.13.1
-fsspec==2024.6.1
+fastapi
 huggingface-hub==0.26.2
-idna==3.10
-logging==0.5.1.2
 numpy==1.26.4
-numpy-base==1.26.4
-packaging==24.2
 pandas==2.2.3
-pathlib==1.0.1
-pip==24.2
-python==3.12.7
 pytorch==2.3.0
-pyyaml==6.0.2
-regex==2024.11.6
-requests==2.32.3
-safetensors==0.4.5
-setuptools==75.1.0
 tokenizers==0.20.3
 tqdm==4.67.0
 transformers==4.46.2
 typing-extensions==4.11.0
-urllib3==2.2.3
+uvicorn
+python-Levenshtein
