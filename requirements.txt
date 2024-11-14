@@ -1,0 +1,28 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-arm64
+certifi=2024.8.30=pyhd8ed1ab_0
+charset-normalizer=3.4.0=pyhd8ed1ab_0
+filelock=3.13.1=py312hca03da5_0
+fsspec=2024.6.1=py312hca03da5_0
+huggingface-hub=0.26.2=pypi_0
+idna=3.10=pyhd8ed1ab_0
+logging=0.5.1.2=pypi_0
+numpy=1.26.4=py312h7f4fdc5_0
+numpy-base=1.26.4=py312he047099_0
+packaging=24.2=pypi_0
+pandas=2.2.3=pypi_0
+pathlib=1.0.1=pypi_0
+pip=24.2=py312hca03da5_0
+python=3.12.7=h99e199e_0
+pytorch=2.3.0=gpu_mps_py312h0aaebbb_101
+pyyaml=6.0.2=py312h80987f9_0
+regex=2024.11.6=pypi_0
+requests=2.32.3=pyhd8ed1ab_0
+safetensors=0.4.5=pypi_0
+setuptools=75.1.0=py312hca03da5_0
+tokenizers=0.20.3=pypi_0
+tqdm=4.67.0=pypi_0
+transformers=4.46.2=pypi_0
+typing-extensions=4.11.0=py312hca03da5_0
+urllib3=2.2.3=pypi_0

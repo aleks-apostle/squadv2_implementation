@@ -1,0 +1,296 @@
+{
+  "false_positive": [
+    {
+      "question": "What kind of auricles do cilia have?",
+      "context": "Lobates have eight comb-rows, originating at the aboral pole and usually not extending beyond the body to the lobes; in species with (four) auricles, the cilia edging the auricles are extensions of cilia in four of the comb rows. Most lobates are quite passive when moving through the water, using the cilia on their comb rows for propulsion, although Leucothea has long and active auricles whose movements also contribute to propulsion. Members of the lobate genera Bathocyroe and Ocyropsis can escape from danger by clapping their lobes, so that the jet of expelled water drives them backwards very quickly. Unlike cydippids, the movements of lobates' combs are coordinated by nerves rather than by water disturbances created by the cilia, yet combs on the same row beat in the same Mexican wave style as the mechanically coordinated comb rows of cydippids and beroids. This may have enabled lobates to grow larger than cydippids and to have shapes that are less egg-like.",
+      "prediction": "extensions",
+      "ground_truth": "",
+      "confidence": 0.9928117822855711,
+      "similarity": 0.0
+    },
+    {
+      "question": "What does being a Conservative do to the seriousness of a protest?",
+      "context": "Howard Zinn writes, \"There may be many times when protesters choose to go to jail, as a way of continuing their protest, as a way of reminding their countrymen of injustice. But that is different than the notion that they must go to jail as part of a rule connected with civil disobedience. The key point is that the spirit of protest should be maintained all the way, whether it is done by remaining in jail, or by evading it. To accept jail penitently as an accession to 'the rules' is to switch suddenly to a spirit of subservience, to demean the seriousness of the protest...In particular, the neo-conservative insistence on a guilty plea should be eliminated.\"",
+      "prediction": "insistence on a guilty plea should be eliminated",
+      "ground_truth": "",
+      "confidence": 0.9996039822581224,
+      "similarity": 0.0
+    },
+    {
+      "question": "What can donate dichromates to a fire?",
+      "context": "Highly concentrated sources of oxygen promote rapid combustion. Fire and explosion hazards exist when concentrated oxidants and fuels are brought into close proximity; an ignition event, such as heat or a spark, is needed to trigger combustion. Oxygen is the oxidant, not the fuel, but nevertheless the source of most of the chemical energy released in combustion. Combustion hazards also apply to compounds of oxygen with a high oxidative potential, such as peroxides, chlorates, nitrates, perchlorates, and dichromates because they can donate oxygen to a fire.",
+      "prediction": "oxygen",
+      "ground_truth": "",
+      "confidence": 0.9985883437329903,
+      "similarity": 0.0
+    },
+    {
+      "question": "How is St Andrew's College run?",
+      "context": "Private schools are often Anglican, such as King's College and Diocesan School for Girls in Auckland, St Paul's Collegiate School in Hamilton, St Peter's School in Cambridge, Samuel Marsden Collegiate School in Wellington, and Christ's College and St Margaret's College in Christchurch; or Presbyterian, such as Saint Kentigern College and St Cuthbert's College in Auckland, Scots College and Queen Margaret College in Wellington, and St Andrew's College and Rangi Ruru Girls' School in Christchurch. Academic Colleges Group is a recent group of private schools run as a business, with schools throughout Auckland, including ACG Senior College in Auckland\u2019s CBD, ACG Parnell College in Parnell, and international school ACG New Zealand International College. There are three private schools (including the secondary school, St Dominic's College) operated by the Catholic schismatic group, the Society of St Pius X in Wanganui.",
+      "prediction": "as a business",
+      "ground_truth": "",
+      "confidence": 0.9175284504890442,
+      "similarity": 0.0
+    },
+    {
+      "question": "What type of reaction produces oxygen in plane cabins?",
+      "context": "People who climb mountains or fly in non-pressurized fixed-wing aircraft sometimes have supplemental O\n2 supplies.[h] Passengers traveling in (pressurized) commercial airplanes have an emergency supply of O\n2 automatically supplied to them in case of cabin depressurization. Sudden cabin pressure loss activates chemical oxygen generators above each seat, causing oxygen masks to drop. Pulling on the masks \"to start the flow of oxygen\" as cabin safety instructions dictate, forces iron filings into the sodium chlorate inside the canister. A steady stream of oxygen gas is then produced by the exothermic reaction.",
+      "prediction": "exothermic reaction",
+      "ground_truth": "",
+      "confidence": 0.9989920672960579,
+      "similarity": 0.0
+    }
+  ],
+  "correct_impossible": [
+    {
+      "question": "Water from broke through and joined the westward flow to the Pacific?",
+      "context": "During the mid-Eocene, it is believed that the drainage basin of the Amazon was split along the middle of the continent by the Purus Arch. Water on the eastern side flowed toward the Atlantic, while to the west water flowed toward the Pacific across the Amazonas Basin. As the Andes Mountains rose, however, a large basin was created that enclosed a lake; now known as the Solim\u00f5es Basin. Within the last 5\u201310 million years, this accumulating water broke through the Purus Arch, joining the easterly flow toward the Atlantic.",
+      "prediction": "",
+      "ground_truth": "",
+      "confidence": 0.045130252838134766,
+      "similarity": 0.0
+    },
+    {
+      "question": "How much Victorian farmland is farmed in rye grass?",
+      "context": "More than 26,000 square kilometres (10,000 sq mi) of Victorian farmland are sown for grain, mostly in the state's west. More than 50% of this area is sown for wheat, 33% for barley and 7% for oats. A further 6,000 square kilometres (2,300 sq mi) is sown for hay. In 2003\u201304, Victorian farmers produced more than 3 million tonnes of wheat and 2 million tonnes of barley. Victorian farms produce nearly 90% of Australian pears and third of apples. It is also a leader in stone fruit production. The main vegetable crops include asparagus, broccoli, carrots, potatoes and tomatoes. Last year, 121,200 tonnes of pears and 270,000 tonnes of tomatoes were produced.",
+      "prediction": "",
+      "ground_truth": "",
+      "confidence": 0.033364176750183105,
+      "similarity": 0.0
+    },
+    {
+      "question": " Colonialism never means a country doing what?",
+      "context": "Imperialism and colonialism both dictate the political and economic advantage over a land and the indigenous populations they control, yet scholars sometimes find it difficult to illustrate the difference between the two. Although imperialism and colonialism focus on the suppression of an other, if colonialism refers to the process of a country taking physical control of another, imperialism refers to the political and monetary dominance, either formally or informally. Colonialism is seen to be the architect deciding how to start dominating areas and then imperialism can be seen as creating the idea behind conquest cooperating with colonialism. Colonialism is when the imperial nation begins a conquest over an area and then eventually is able to rule over the areas the previous nation had controlled. Colonialism's core meaning is the exploitation of the valuable assets and supplies of the nation that was conquered and the conquering nation then gaining the benefits from the spoils of the war. The meaning of imperialism is to create an empire, by conquering the other state's lands and therefore increasing its own dominance. Colonialism is the builder and preserver of the colonial possessions in an area by a population coming from a foreign region. Colonialism can completely change the existing social structure, physical structure and economics of an area; it is not unusual that the characteristics of the conquering peoples are inherited by the conquered indigenous populations.",
+      "prediction": "",
+      "ground_truth": "",
+      "confidence": 0.0001786351203918457,
+      "similarity": 0.0
+    },
+    {
+      "question": "How long can the cillia grow on ctenophores?",
+      "context": "Ranging from about 1 millimeter (0.039 in) to 1.5 meters (4.9 ft) in size, ctenophores are the largest non-colonial animals that use cilia (\"hairs\") as their main method of locomotion. Most species have eight strips, called comb rows, that run the length of their bodies and bear comb-like bands of cilia, called \"ctenes,\" stacked along the comb rows so that when the cilia beat, those of each comb touch the comb below. The name \"ctenophora\" means \"comb-bearing\", from the Greek \u03ba\u03c4\u03b5\u03af\u03c2 (stem-form \u03ba\u03c4\u03b5\u03bd-) meaning \"comb\" and the Greek suffix -\u03c6\u03bf\u03c1\u03bf\u03c2 meaning \"carrying\".",
+      "prediction": "",
+      "ground_truth": "",
+      "confidence": 0.12739259004592896,
+      "similarity": 0.0
+    },
+    {
+      "question": "What is another function that primes have that the number 15 does not?",
+      "context": "A large body of mathematical work would still be valid when calling 1 a prime, but Euclid's fundamental theorem of arithmetic (mentioned above) would not hold as stated. For example, the number 15 can be factored as 3 \u00b7 5 and 1 \u00b7 3 \u00b7 5; if 1 were admitted as a prime, these two presentations would be considered different factorizations of 15 into prime numbers, so the statement of that theorem would have to be modified. Similarly, the sieve of Eratosthenes would not work correctly if 1 were considered a prime: a modified version of the sieve that considers 1 as prime would eliminate all multiples of 1 (that is, all other numbers) and produce as output only the single number 1. Furthermore, the prime numbers have several properties that the number 1 lacks, such as the relationship of the number to its corresponding value of Euler's totient function or the sum of divisors function.",
+      "prediction": "",
+      "ground_truth": "",
+      "confidence": 0.03163522481918335,
+      "similarity": 0.0
+    }
+  ],
+  "partial_match": [
+    {
+      "question": "In 1979, during the oil crisis, what was the highest price of oil?",
+      "context": "OPEC soon lost its preeminent position, and in 1981, its production was surpassed by that of other countries. Additionally, its own member nations were divided. Saudi Arabia, trying to recover market share, increased production, pushing prices down, shrinking or eliminating profits for high-cost producers. The world price, which had peaked during the 1979 energy crisis at nearly $40 per barrel, decreased during the 1980s to less than $10 per barrel. Adjusted for inflation, oil briefly fell back to pre-1973 levels. This \"sale\" price was a windfall for oil-importing nations, both developing and developed.",
+      "prediction": "$ 40 per barrel",
+      "ground_truth": "nearly $40 per barrel",
+      "confidence": 0.9975441386923194,
+      "similarity": 0.7878787878787878
+    },
+    {
+      "question": "What did the king do to regarding Huguenot education?",
+      "context": "Louis XIV gained the throne in 1643 and acted increasingly aggressively to force the Huguenots to convert. At first he sent missionaries, backed by a fund to financially reward converts to Catholicism. Then he imposed penalties, closed Huguenot schools and excluded them from favored professions. Escalating, he instituted dragonnades, which included the occupation and looting of Huguenot homes by military troops, in an effort to forcibly convert them. In 1685, he issued the Edict of Fontainebleau, revoking the Edict of Nantes and declaring Protestantism illegal.[citation needed]",
+      "prediction": "closed huguenot schools and excluded them from favored professions",
+      "ground_truth": "closed Huguenot schools",
+      "confidence": 0.984458695165813,
+      "similarity": 0.5168539325842696
+    },
+    {
+      "question": "How many did this epidemic in China kill?",
+      "context": "The plague disease, caused by Yersinia pestis, is enzootic (commonly present) in populations of fleas carried by ground rodents, including marmots, in various areas including Central Asia, Kurdistan, Western Asia, Northern India and Uganda. Nestorian graves dating to 1338\u201339 near Lake Issyk Kul in Kyrgyzstan have inscriptions referring to plague and are thought by many epidemiologists to mark the outbreak of the epidemic, from which it could easily have spread to China and India. In October 2010, medical geneticists suggested that all three of the great waves of the plague originated in China. In China, the 13th century Mongol conquest caused a decline in farming and trading. However, economic recovery had been observed at the beginning of the 14th century. In the 1330s a large number of natural disasters and plagues led to widespread famine, starting in 1331, with a deadly plague arriving soon after. Epidemics that may have included plague killed an estimated 25 million Chinese and other Asians during the 15 years before it reached Constantinople in 1347.",
+      "prediction": "25 million",
+      "ground_truth": "an estimated 25 million",
+      "confidence": 0.9997659012296936,
+      "similarity": 0.6666666666666667
+    },
+    {
+      "question": "What happens first if a Directive's deadline for implementation is not met?",
+      "context": "First, if a Directive's deadline for implementation is not met, the member state cannot enforce conflicting laws, and a citizen may rely on the Directive in such an action (so called \"vertical\" direct effect). So, in Pubblico Ministero v Ratti because the Italian government had failed to implement a Directive 73/173/EEC on packaging and labelling solvents by the deadline, it was estopped from enforcing a conflicting national law from 1963 against Mr Ratti's solvent and varnish business. A member state could \"not rely, as against individuals, on its own failure to perform the obligations which the Directive entails.\" Second, a citizen or company can invoke a Directive, not just in a dispute with a public authority, but in a dispute with another citizen or company. So, in CIA Security v Signalson and Securitel the Court of Justice held that a business called CIA Security could defend itself from allegations by competitors that it had not complied with a Belgian decree from 1991 about alarm systems, on the basis that it had not been notified to the Commission as a Directive required. Third, if a Directive gives expression to a \"general principle\" of EU law, it can be invoked between private non-state parties before its deadline for implementation. This follows from K\u00fcc\u00fckdeveci v Swedex GmbH & Co KG where the German Civil Code \u00a7622 stated that the years people worked under the age of 25 would not count towards the increasing statutory notice before dismissal. Ms K\u00fcc\u00fckdeveci worked for 10 years, from age 18 to 28, for Swedex GmbH & Co KG before her dismissal. She claimed that the law not counting her years under age 25 was unlawful age discrimination under the Employment Equality Framework Directive. The Court of Justice held that the Directive could be relied on by her because equality was also a general principle of EU law. Third, if the defendant is an emanation of the state, even if not central government, it can still be bound by Directives. In Foster v British Gas plc the Court of Justice held that Mrs Foster was entitled to bring a sex discrimination claim against her employer, British Gas plc, which made women retire at age 60 and men at 65, if (1) pursuant to a state measure, (2) it provided a public service, and (3) had special powers. This could also be true if the enterprise is privatised, as it was held with a water company that was responsible for basic water provision.",
+      "prediction": "the member state cannot enforce conflicting laws",
+      "ground_truth": "the member state cannot enforce conflicting laws, and a citizen may rely on the Directive in such an action",
+      "confidence": 0.812311202287674,
+      "similarity": 0.6423357664233577
+    },
+    {
+      "question": "What was another term used for the oil crisis?",
+      "context": "The 1973 oil crisis began in October 1973 when the members of the Organization of Arab Petroleum Exporting Countries (OAPEC, consisting of the Arab members of OPEC plus Egypt and Syria) proclaimed an oil embargo. By the end of the embargo in March 1974, the price of oil had risen from US$3 per barrel to nearly $12 globally; US prices were significantly higher. The embargo caused an oil crisis, or \"shock\", with many short- and long-term effects on global politics and the global economy. It was later called the \"first oil shock\", followed by the 1979 oil crisis, termed the \"second oil shock.\"",
+      "prediction": "second oil shock",
+      "ground_truth": "first oil shock",
+      "confidence": 0.999545733910054,
+      "similarity": 0.7096774193548387
+    }
+  ],
+  "correct_answer": [
+    {
+      "question": "Drop in the blood levels of cortisol and epinephrine results in increase levels of what hormones?",
+      "context": "In addition to the negative consequences of sleep deprivation, sleep and the intertwined circadian system have been shown to have strong regulatory effects on immunological functions affecting both the innate and the adaptive immunity. First, during the early slow-wave-sleep stage, a sudden drop in blood levels of cortisol, epinephrine, and norepinephrine induce increased blood levels of the hormones leptin, pituitary growth hormone, and prolactin. These signals induce a pro-inflammatory state through the production of the pro-inflammatory cytokines interleukin-1, interleukin-12, TNF-alpha and IFN-gamma. These cytokines then stimulate immune functions such as immune cells activation, proliferation, and differentiation. It is during this time that undifferentiated, or less differentiated, like na\u00efve and central memory T cells, peak (i.e. during a time of a slowly evolving adaptive immune response). In addition to these effects, the milieu of hormones produced at this time (leptin, pituitary growth hormone, and prolactin) support the interactions between APCs and T-cells, a shift of the Th1/Th2 cytokine balance towards one that supports Th1, an increase in overall Th cell proliferation, and na\u00efve T cell migration to lymph nodes. This milieu is also thought to support the formation of long-lasting immune memory through the initiation of Th1 immune responses.",
+      "prediction": "leptin, pituitary growth hormone, and prolactin",
+      "ground_truth": "leptin, pituitary growth hormone, and prolactin",
+      "confidence": 0.9989231100771576,
+      "similarity": 1.0
+    },
+    {
+      "question": "What department did Kublai create to train doctors?",
+      "context": "The physicians of the Yuan court came from diverse cultures. Healers were divided into non-Mongol physicians called otachi and traditional Mongol shamans. The Mongols characterized otachi doctors by their use of herbal remedies, which was distinguished from the spiritual cures of Mongol shamanism. Physicians received official support from the Yuan government and were given special legal privileges. Kublai created the Imperial Academy of Medicine to manage medical treatises and the education of new doctors. Confucian scholars were attracted to the medical profession because it ensured a high income and medical ethics were compatible with Confucian virtues.",
+      "prediction": "imperial academy of medicine",
+      "ground_truth": "Imperial Academy of Medicine",
+      "confidence": 0.999973077496179,
+      "similarity": 1.0
+    },
+    {
+      "question": "The UK and France had non interruptions in their oil supply as they did not allow which country to use their airfield?",
+      "context": "The embargo was not uniform across Europe. Of the nine members of the European Economic Community (EEC), the Netherlands faced a complete embargo, the UK and France received almost uninterrupted supplies (having refused to allow America to use their airfields and embargoed arms and supplies to both the Arabs and the Israelis), while the other six faced partial cutbacks. The UK had traditionally been an ally of Israel, and Harold Wilson's government supported the Israelis during the Six-Day War. His successor, Ted Heath, reversed this policy in 1970, calling for Israel to withdraw to its pre-1967 borders.",
+      "prediction": "america",
+      "ground_truth": "America",
+      "confidence": 0.5855861604213715,
+      "similarity": 1.0
+    },
+    {
+      "question": "In which cardinal direction from Los Angeles is San Diego?",
+      "context": "Within southern California are two major cities, Los Angeles and San Diego, as well as three of the country's largest metropolitan areas. With a population of 3,792,621, Los Angeles is the most populous city in California and the second most populous in the United States. To the south and with a population of 1,307,402 is San Diego, the second most populous city in the state and the eighth most populous in the nation.",
+      "prediction": "south",
+      "ground_truth": "south",
+      "confidence": 0.9987773253815249,
+      "similarity": 1.0
+    },
+    {
+      "question": "What philosophies underlay Chinese medicine?",
+      "context": "Western medicine was also practiced in China by the Nestorian Christians of the Yuan court, where it was sometimes labeled as huihui or Muslim medicine. The Nestorian physician Jesus the Interpreter founded the Office of Western Medicine in 1263 during the reign of Kublai. Huihui doctors staffed at two imperial hospitals were responsible for treating the imperial family and members of the court. Chinese physicians opposed Western medicine because its humoral system contradicted the yin-yang and wuxing philosophy underlying traditional Chinese medicine. No Chinese translation of Western medical works is known, but it is possible that the Chinese had access to Avicenna's The Canon of Medicine.",
+      "prediction": "yin - yang and wuxing",
+      "ground_truth": "yin-yang and wuxing",
+      "confidence": 0.989883117377758,
+      "similarity": 0.972972972972973
+    }
+  ],
+  "wrong_answer": [
+    {
+      "question": "What encoding decision needs to be made in order to determine an exact definition of the formal language?",
+      "context": "An example of a decision problem is the following. The input is an arbitrary graph. The problem consists in deciding whether the given graph is connected, or not. The formal language associated with this decision problem is then the set of all connected graphs\u2014of course, to obtain a precise definition of this language, one has to decide how graphs are encoded as binary strings.",
+      "prediction": "the set of all connected graphs",
+      "ground_truth": "how graphs are encoded as binary strings",
+      "confidence": 0.8437449634075165,
+      "similarity": 0.32835820895522383
+    },
+    {
+      "question": "Who took the throne after Kusala's death?",
+      "context": "When Yes\u00fcn Tem\u00fcr died in Shangdu in 1328, Tugh Tem\u00fcr was recalled to Khanbaliq by the Qipchaq commander El Tem\u00fcr. He was installed as the emperor (Emperor Wenzong) in Khanbaliq, while Yes\u00fcn Tem\u00fcr's son Ragibagh succeeded to the throne in Shangdu with the support of Yes\u00fcn Tem\u00fcr's favorite retainer Dawlat Shah. Gaining support from princes and officers in Northern China and some other parts of the dynasty, Khanbaliq-based Tugh Tem\u00fcr eventually won the civil war against Ragibagh known as the War of the Two Capitals. Afterwards, Tugh Tem\u00fcr abdicated in favour of his brother Kusala, who was backed by Chagatai Khan Eljigidey, and announced Khanbaliq's intent to welcome him. However, Kusala suddenly died only four days after a banquet with Tugh Tem\u00fcr. He was supposedly killed with poison by El Tem\u00fcr, and Tugh Tem\u00fcr then remounted the throne. Tugh Tem\u00fcr also managed to send delegates to the western Mongol khanates such as Golden Horde and Ilkhanate to be accepted as the suzerain of Mongol world. However, he was mainly a puppet of the powerful official El Tem\u00fcr during his latter three-year reign. El Tem\u00fcr purged pro-Kusala officials and brought power to warlords, whose despotic rule clearly marked the decline of the dynasty.",
+      "prediction": "ragibagh",
+      "ground_truth": "Tugh Tem\u00fcr",
+      "confidence": 0.9998492524609901,
+      "similarity": 0.2222222222222222
+    },
+    {
+      "question": "What was Warsaw the most diverse of in Poland?",
+      "context": "Demographically, it was the most diverse city in Poland, with significant numbers of foreign-born inhabitants. In addition to the Polish majority, there was a significant Jewish minority in Warsaw. According to Russian census of 1897, out of the total population of 638,000, Jews constituted 219,000 (around 34% percent). Warsaw's prewar Jewish population of more than 350,000 constituted about 30 percent of the city's total population. In 1933, out of 1,178,914 inhabitants 833,500 were of Polish mother tongue. World War II changed the demographics of the city, and to this day there is much less ethnic diversity than in the previous 300 years of Warsaw's history. Most of the modern day population growth is based on internal migration and urbanisation.",
+      "prediction": "foreign - born inhabitants",
+      "ground_truth": "city",
+      "confidence": 0.9999798862736498,
+      "similarity": 0.1428571428571429
+    },
+    {
+      "question": "What type of architecture is represented in the majestic churches?",
+      "context": "Gothic architecture is represented in the majestic churches but also at the burgher houses and fortifications. The most significant buildings are St. John's Cathedral (14th century), the temple is a typical example of the so-called Masovian gothic style, St. Mary's Church (1411), a town house of Burbach family (14th century), Gunpowder Tower (after 1379) and the Royal Castle Curia Maior (1407\u20131410). The most notable examples of Renaissance architecture in the city are the house of Baryczko merchant family (1562), building called \"The Negro\" (early 17th century) and Salwator tenement (1632). The most interesting examples of mannerist architecture are the Royal Castle (1596\u20131619) and the Jesuit Church (1609\u20131626) at Old Town. Among the first structures of the early baroque the most important are St. Hyacinth's Church (1603\u20131639) and Sigismund's Column (1644).",
+      "prediction": "gothic architecture",
+      "ground_truth": "Gothic",
+      "confidence": 0.9998776321299374,
+      "similarity": 0.48
+    },
+    {
+      "question": "Secular Arab nationalism was blamed for both the defeat of Arab troops as well as what type of stagnation?",
+      "context": "The quick and decisive defeat of the Arab troops during the Six-Day War by Israeli troops constituted a pivotal event in the Arab Muslim world. The defeat along with economic stagnation in the defeated countries, was blamed on the secular Arab nationalism of the ruling regimes. A steep and steady decline in the popularity and credibility of secular, socialist and nationalist politics ensued. Ba'athism, Arab socialism, and Arab nationalism suffered, and different democratic and anti-democratic Islamist movements inspired by Maududi and Sayyid Qutb gained ground.",
+      "prediction": "socialist",
+      "ground_truth": "economic",
+      "confidence": 0.9991832658997737,
+      "similarity": 0.23529411764705888
+    }
+  ],
+  "empty_prediction": [
+    {
+      "question": "What does the plos pathogen paper claim?",
+      "context": "In October 2010, the open-access scientific journal PLoS Pathogens published a paper by a multinational team who undertook a new investigation into the role of Yersinia pestis in the Black Death following the disputed identification by Drancourt and Raoult in 1998. They assessed the presence of DNA/RNA with Polymerase Chain Reaction (PCR) techniques for Y. pestis from the tooth sockets in human skeletons from mass graves in northern, central and southern Europe that were associated archaeologically with the Black Death and subsequent resurgences. The authors concluded that this new research, together with prior analyses from the south of France and Germany, \". . . ends the debate about the etiology of the Black Death, and unambiguously demonstrates that Y. pestis was the causative agent of the epidemic plague that devastated Europe during the Middle Ages\".",
+      "prediction": "",
+      "ground_truth": "unambiguously demonstrates that Y. pestis was the causative agent of the epidemic plague",
+      "confidence": 0.9769220110028982,
+      "similarity": 0.0
+    },
+    {
+      "question": "Who ruled Cyprus in 1191?",
+      "context": "In April 1191 Richard the Lion-hearted left Messina with a large fleet in order to reach Acre. But a storm dispersed the fleet. After some searching, it was discovered that the boat carrying his sister and his fianc\u00e9e Berengaria was anchored on the south coast of Cyprus, together with the wrecks of several other ships, including the treasure ship. Survivors of the wrecks had been taken prisoner by the island's despot Isaac Komnenos. On 1 May 1191, Richard's fleet arrived in the port of Limassol on Cyprus. He ordered Isaac to release the prisoners and the treasure. Isaac refused, so Richard landed his troops and took Limassol.",
+      "prediction": "",
+      "ground_truth": "Isaac Komnenos",
+      "confidence": 0.9995577154040802,
+      "similarity": 0.0
+    },
+    {
+      "question": "How many people per square mile lived in Fresno in 2010?",
+      "context": "The 2010 United States Census reported that Fresno had a population of 494,665. The population density was 4,404.5 people per square mile (1,700.6/km\u00b2). The racial makeup of Fresno was 245,306 (49.6%) White, 40,960 (8.3%) African American, 8,525 (1.7%) Native American, 62,528 (12.6%) Asian (3.6% Hmong, 1.7% Indian, 1.2% Filipino, 1.2% Laotian, 1.0% Thai, 0.8% Cambodian, 0.7% Chinese, 0.5% Japanese, 0.4% Vietnamese, 0.2% Korean), 849 (0.2%) Pacific Islander, 111,984 (22.6%) from other races, and 24,513 (5.0%) from two or more races. Hispanic or Latino of any race were 232,055 persons (46.9%). Among the Hispanic population, 42.7% of the total population are Mexican, 0.4% Salvadoran, and 0.4% Puerto Rican. Non-Hispanic Whites were 30.0% of the population in 2010, down from 72.6% in 1970.",
+      "prediction": "",
+      "ground_truth": "4,404.5 people",
+      "confidence": 0.9986920410301536,
+      "similarity": 0.0
+    },
+    {
+      "question": "Who did Abercrombie replace as commander in chief?",
+      "context": "The British failures in North America, combined with other failures in the European theater, led to the fall from power of Newcastle and his principal military advisor, the Duke of Cumberland. Newcastle and Pitt joined in an uneasy coalition in which Pitt dominated the military planning. He embarked on a plan for the 1758 campaign that was largely developed by Loudoun. He had been replaced by Abercrombie as commander in chief after the failures of 1757. Pitt's plan called for three major offensive actions involving large numbers of regular troops, supported by the provincial militias, aimed at capturing the heartlands of New France. Two of the expeditions were successful, with Fort Duquesne and Louisbourg falling to sizable British forces.",
+      "prediction": "",
+      "ground_truth": "Loudoun",
+      "confidence": 0.9981852531200275,
+      "similarity": 0.0
+    },
+    {
+      "question": "Who governed the Central Region in the Yuan?",
+      "context": "The Central Region, consisting of present-day Hebei, Shandong, Shanxi, the south-eastern part of present-day Inner Mongolia and the Henan areas to the north of the Yellow River, was considered the most important region of the dynasty and directly governed by the Central Secretariat (or Zhongshu Sheng) at Khanbaliq (modern Beijing); similarly, another top-level administrative department called the Bureau of Buddhist and Tibetan Affairs (or Xuanzheng Yuan) held administrative rule over the whole of modern-day Tibet and a part of Sichuan, Qinghai and Kashmir.",
+      "prediction": "",
+      "ground_truth": "the Central Secretariat",
+      "confidence": 0.6730704307556152,
+      "similarity": 0.0
+    }
+  ],
+  "false_negative": [
+    {
+      "question": "What right do private schools have that public schools don't?",
+      "context": "Private schools, also known as independent schools, non-governmental, or nonstate schools, are not administered by local, state or national governments; thus, they retain the right to select their students and are funded in whole or in part by charging their students tuition, rather than relying on mandatory taxation through public (government) funding; at some private schools students may be able to get a scholarship, which makes the cost cheaper, depending on a talent the student may have (e.g. sport scholarship, art scholarship, academic scholarship), financial need, or tax credit scholarships that might be available.",
+      "prediction": "",
+      "ground_truth": "to select their students",
+      "confidence": 0.05638152360916138,
+      "similarity": 0.0
+    },
+    {
+      "question": "What directly opposes the force applied to move an object across a surface?",
+      "context": "A simple case of dynamic equilibrium occurs in constant velocity motion across a surface with kinetic friction. In such a situation, a force is applied in the direction of motion while the kinetic friction force exactly opposes the applied force. This results in zero net force, but since the object started with a non-zero velocity, it continues to move with a non-zero velocity. Aristotle misinterpreted this motion as being caused by the applied force. However, when kinetic friction is taken into consideration it is clear that there is no net force causing constant velocity motion.",
+      "prediction": "",
+      "ground_truth": "kinetic friction force",
+      "confidence": 0.03076082468032837,
+      "similarity": 0.0
+    },
+    {
+      "question": "What causes the population of ctenophora to grow at an explosive rate?",
+      "context": "Most species are hermaphrodites\u2014a single animal can produce both eggs and sperm, meaning it can fertilize its own egg, not needing a mate. Some are simultaneous hermaphrodites, which can produce both eggs and sperm at the same time. Others are sequential hermaphrodites, in which the eggs and sperm mature at different times. Fertilization is generally external, although platyctenids' eggs are fertilized inside their parents' bodies and kept there until they hatch. The young are generally planktonic and in most species look like miniature cydippids, gradually changing into their adult shapes as they grow. The exceptions are the beroids, whose young are miniature beroids with large mouths and no tentacles, and the platyctenids, whose young live as cydippid-like plankton until they reach near-adult size, but then sink to the bottom and rapidly metamorphose into the adult form. In at least some species, juveniles are capable of reproduction before reaching the adult size and shape. The combination of hermaphroditism and early reproduction enables small populations to grow at an explosive rate.",
+      "prediction": "",
+      "ground_truth": "hermaphroditism and early reproduction",
+      "confidence": 0.4016636610031128,
+      "similarity": 0.0
+    },
+    {
+      "question": "What type of jihad does HT avoid engaging in?",
+      "context": "HT does not engage in armed jihad or work for a democratic system, but works to take power through \"ideological struggle\" to change Muslim public opinion, and in particular through elites who will \"facilitate\" a \"change of the government,\" i.e., launch a \"bloodless\" coup. It allegedly attempted and failed such coups in 1968 and 1969 in Jordan, and in 1974 in Egypt, and is now banned in both countries. But many HT members have gone on to join terrorist groups and many jihadi terrorists have cited HT as their key influence.",
+      "prediction": "",
+      "ground_truth": "armed",
+      "confidence": 0.10392922163009644,
+      "similarity": 0.0
+    },
+    {
+      "question": "What test is especially useful for numbers of the form 2p - 1?",
+      "context": "are prime. Prime numbers of this form are known as factorial primes. Other primes where either p + 1 or p \u2212 1 is of a particular shape include the Sophie Germain primes (primes of the form 2p + 1 with p prime), primorial primes, Fermat primes and Mersenne primes, that is, prime numbers that are of the form 2p \u2212 1, where p is an arbitrary prime. The Lucas\u2013Lehmer test is particularly fast for numbers of this form. This is why the largest known prime has almost always been a Mersenne prime since the dawn of electronic computers.",
+      "prediction": "",
+      "ground_truth": "The Lucas\u2013Lehmer test",
+      "confidence": 0.1175277829170227,
+      "similarity": 0.0
+    }
+  ]
+}

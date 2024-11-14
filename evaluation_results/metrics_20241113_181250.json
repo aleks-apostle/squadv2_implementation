@@ -1,0 +1,21 @@
+{
+  "total_examples": 11890,
+  "total_impossible": 5945,
+  "total_answerable": 5945,
+  "accuracy": 0.5619848612279226,
+  "impossible_accuracy": 0.5858704793944491,
+  "answerable_accuracy": 0.5380992430613961,
+  "average_similarity": 0.6664439031229454,
+  "average_confidence": 0.6400929764036939,
+  "confidence_correct": 0.4942580739804773,
+  "confidence_incorrect": 0.8272029644973832,
+  "error_distribution": {
+    "false_positive": 0.20706476030277543,
+    "correct_answer": 0.26904962153069806,
+    "correct_impossible": 0.29293523969722457,
+    "partial_match": 0.0663582842724979,
+    "false_negative": 0.06812447434819176,
+    "wrong_answer": 0.07964676198486123,
+    "empty_prediction": 0.01682085786375105
+  }
+}
