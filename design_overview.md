@@ -206,16 +206,4 @@ System Workflow
 - Answer selection
 - Result validation
 
-This architecture provides a robust foundation for question answering while maintaining flexibility for future improvements and extensions. Each component is designed with clear responsibilities and interfaces, allowing for easy maintenance and enhancement.
 
-Extended Components Interaction
-
-The system's components interact through well-defined interfaces:
-
-Data Layer        Model Layer       Evaluation Layer
-    ↓                 ↓                   ↓
-  Dataset  →  Model Pipeline  →  Result Processing
-    ↓                 ↓                   ↓
-Preprocessing → Training Loop → Metric Computation
-    ↓                 ↓                   ↓
- Batching    →    Inference   →    Reporting
